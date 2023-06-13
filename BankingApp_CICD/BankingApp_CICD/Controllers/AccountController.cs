@@ -13,7 +13,7 @@ namespace BankingApp_CICD.Controllers
     [ApiController]
     public class AccountController : ControllerBase
     {
-        private readonly SatishApiDbContext _context;
+        private readonly SatishApiDbContext _context = new SatishApiDbContext();
 
         public AccountController(SatishApiDbContext context)
         {
