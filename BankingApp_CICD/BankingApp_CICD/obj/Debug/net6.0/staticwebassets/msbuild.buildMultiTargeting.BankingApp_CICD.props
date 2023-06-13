@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BankingApp_CICD.props" />
+</Project>

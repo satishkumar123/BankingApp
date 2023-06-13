@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u7PG9EB9rVT2hX3ghiNi9Lz5DHqhaWOA6WHKM+RkYWQ=",
+  "Source": "BankingApp_CICD",
+  "BasePath": "_content/BankingApp_CICD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
